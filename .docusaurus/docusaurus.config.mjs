@@ -26,10 +26,12 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js"
+          "sidebarPath": "./sidebars.js",
+          "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
-          "showReadingTime": true
+          "showReadingTime": true,
+          "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"

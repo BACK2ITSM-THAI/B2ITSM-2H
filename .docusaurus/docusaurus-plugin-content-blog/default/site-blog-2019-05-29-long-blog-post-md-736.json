@@ -1,5 +1,6 @@
 {
   "permalink": "/B2ITSM-2H/blog/long-blog-post",
+  "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
   "source": "@site/blog/2019-05-29-long-blog-post.md",
   "title": "Long Blog Post",
   "description": "This is the summary of a very long blog post,",
