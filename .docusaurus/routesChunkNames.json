@@ -1,0 +1,210 @@
+{
+  "/B2ITSM-2H/blog-875": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "63db6c15"
+  },
+  "/B2ITSM-2H/blog/archive-b8f": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "archive": "1049c0fc"
+  },
+  "/B2ITSM-2H/blog/first-blog-post-13f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/B2ITSM-2H/blog/long-blog-post-01d": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/B2ITSM-2H/blog/mdx-blog-post-ba2": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/B2ITSM-2H/blog/tags-b66": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "tags": "dc012293"
+  },
+  "/B2ITSM-2H/blog/tags/docusaurus-e83": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "89d30116",
+    "listMetadata": "ad980656"
+  },
+  "/B2ITSM-2H/blog/tags/facebook-7db": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "4a4fbceb",
+    "listMetadata": "759918d3"
+  },
+  "/B2ITSM-2H/blog/tags/hello-330": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "055fc991",
+    "listMetadata": "f34e7bea"
+  },
+  "/B2ITSM-2H/blog/tags/hola-176": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "c58e3a31",
+    "listMetadata": "512f25f1"
+  },
+  "/B2ITSM-2H/blog/welcome-3ca": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "886c8346"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/B2ITSM-2H/markdown-page-221": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "214562f4"
+    },
+    "content": "393be207"
+  },
+  "/B2ITSM-2H/docs-dc9": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "747be094"
+    }
+  },
+  "/B2ITSM-2H/docs-97e": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/B2ITSM-2H/docs-c0f": {
+    "__comp": "a94703ab"
+  },
+  "/B2ITSM-2H/docs/category/tutorial---basics-374": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9470db0c"
+  },
+  "/B2ITSM-2H/docs/category/tutorial---extras-2f2": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "42bb3dcc"
+  },
+  "/B2ITSM-2H/docs/intro-40c": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/B2ITSM-2H/docs/tutorial-basics/congratulations-25d": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/B2ITSM-2H/docs/tutorial-basics/create-a-blog-post-c7f": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/B2ITSM-2H/docs/tutorial-basics/create-a-document-9ce": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/B2ITSM-2H/docs/tutorial-basics/create-a-page-274": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/B2ITSM-2H/docs/tutorial-basics/deploy-your-site-dac": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/B2ITSM-2H/docs/tutorial-basics/markdown-features-10b": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/B2ITSM-2H/docs/tutorial-extras/manage-docs-versions-12c": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/B2ITSM-2H/docs/tutorial-extras/translate-your-site-613": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/B2ITSM-2H/-796": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "214562f4"
+    },
+    "config": "5e9f5e1a"
+  }
+}
