@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'New Site',
-  tagline: 'My New Site',
+  title: 'BACK2ITSM',
+  tagline: 'Mental Health Matters (Even for IT professionals!)',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',

@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "New Site",
-  "tagline": "My New Site",
+  "title": "BACK2ITSM",
+  "tagline": "Mental Health Matters (Even for IT professionals!",
   "favicon": "img/favicon.ico",
   "url": "https://BACK2ITSM-THAI.github.io",
   "baseUrl": "/B2ITSM-2H/",
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
