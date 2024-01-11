@@ -5,7 +5,7 @@
  */
 export default {
   "title": "BACK2ITSM",
-  "tagline": "Mental Health Matters (Even for IT professionals!",
+  "tagline": "Mental Health Matters (Even for IT professionals!)",
   "favicon": "img/favicon.ico",
   "url": "https://BACK2ITSM-THAI.github.io",
   "baseUrl": "/B2ITSM-2H/",
@@ -52,7 +52,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Information"
         },
         {
           "to": "/blog",
