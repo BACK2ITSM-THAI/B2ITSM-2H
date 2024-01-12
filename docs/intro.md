@@ -7,7 +7,7 @@ Title: Information
 
 ## What is this site about?
 
-This site is a repository of information related to Mental Health Well Being, focusing on the IT Industry.
+This site is a repository of information related to **Mental Health Well Being**, focusing on the IT Industry.
 
 ## Who maintained it?
 
