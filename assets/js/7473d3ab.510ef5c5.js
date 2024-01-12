@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkb_2_itsm_2_hb=self.webpackChunkb_2_itsm_2_hb||[]).push([[423],{8985:s=>{s.exports=JSON.parse('{"permalink":"/B2ITSM-2H/blog/tags/back-2-itsm","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

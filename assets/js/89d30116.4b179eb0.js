@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkb_2_itsm_2_hb=self.webpackChunkb_2_itsm_2_hb||[]).push([[9975],{5842:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/B2ITSM-2H/blog/tags/docusaurus","allTagsPath":"/B2ITSM-2H/blog/tags","count":4,"unlisted":false}')}}]);
