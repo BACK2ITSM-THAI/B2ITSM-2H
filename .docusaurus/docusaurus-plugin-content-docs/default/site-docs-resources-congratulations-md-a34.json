@@ -1,0 +1,27 @@
+{
+  "id": "Resources/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/Resources/congratulations.md",
+  "sourceDirName": "Resources",
+  "slug": "/Resources/congratulations",
+  "permalink": "/B2ITSM-2H/docs/Resources/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/B2ITSM-2H/docs/Resources/deploy-your-site"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/B2ITSM-2H/docs/category/tutorial---extras"
+  }
+}

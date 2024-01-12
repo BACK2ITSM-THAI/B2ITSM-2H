@@ -1,0 +1,24 @@
+{
+  "id": "Resources/support_group",
+  "title": "Support Group",
+  "description": "",
+  "source": "@site/docs/Resources/support_group.md",
+  "sourceDirName": "Resources",
+  "slug": "/Resources/support_group",
+  "permalink": "/B2ITSM-2H/docs/Resources/support_group",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/support_group.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MOOCs",
+    "permalink": "/B2ITSM-2H/docs/Resources/mooc"
+  },
+  "next": {
+    "title": "Ideas",
+    "permalink": "/B2ITSM-2H/docs/Ideas"
+  }
+}

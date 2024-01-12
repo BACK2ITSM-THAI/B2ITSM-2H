@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Information',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://www.facebook.com/groups/back2itsm',
             label: 'Facebook',

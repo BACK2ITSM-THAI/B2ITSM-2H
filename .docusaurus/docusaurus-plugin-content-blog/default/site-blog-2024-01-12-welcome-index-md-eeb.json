@@ -1,0 +1,37 @@
+{
+  "permalink": "/B2ITSM-2H/blog/welcome",
+  "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/blog/2024-01-12-welcome/index.md",
+  "source": "@site/blog/2024-01-12-welcome/index.md",
+  "title": "Welcome",
+  "description": "News will be published here.",
+  "date": "2024-01-12T00:00:00.000Z",
+  "formattedDate": "January 12, 2024",
+  "tags": [
+    {
+      "label": "back2itsm",
+      "permalink": "/B2ITSM-2H/blog/tags/back-2-itsm"
+    }
+  ],
+  "readingTime": 0.025,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Gonzague PATINIER",
+      "title": "Maintainer of Repository",
+      "url": "https://github.com/gonzaguepatinier",
+      "imageURL": "https://back2itsm-thai.github.io/B2ITSM-2H/img/patgo01.jpg",
+      "key": "gonzague"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "gonzague"
+    ],
+    "tags": [
+      "back2itsm"
+    ]
+  },
+  "unlisted": false
+}

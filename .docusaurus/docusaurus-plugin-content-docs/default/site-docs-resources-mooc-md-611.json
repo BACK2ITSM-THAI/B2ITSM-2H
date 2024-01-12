@@ -1,0 +1,24 @@
+{
+  "id": "Resources/mooc",
+  "title": "MOOCs",
+  "description": "",
+  "source": "@site/docs/Resources/mooc.md",
+  "sourceDirName": "Resources",
+  "slug": "/Resources/mooc",
+  "permalink": "/B2ITSM-2H/docs/Resources/mooc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/mooc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Books",
+    "permalink": "/B2ITSM-2H/docs/Resources/books"
+  },
+  "next": {
+    "title": "Support Group",
+    "permalink": "/B2ITSM-2H/docs/Resources/support_group"
+  }
+}

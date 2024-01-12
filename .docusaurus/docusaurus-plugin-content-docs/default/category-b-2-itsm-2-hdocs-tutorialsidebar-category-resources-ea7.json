@@ -1,0 +1,16 @@
+{
+  "title": "Resources",
+  "description": "Resources",
+  "slug": "/category/resources",
+  "permalink": "/B2ITSM-2H/docs/category/resources",
+  "navigation": {
+    "previous": {
+      "title": "Information",
+      "permalink": "/B2ITSM-2H/docs/intro"
+    },
+    "next": {
+      "title": "Resources List",
+      "permalink": "/B2ITSM-2H/docs/Resources/intro"
+    }
+  }
+}

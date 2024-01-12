@@ -1,0 +1,680 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/B2ITSM-2H/docs",
+          "tagsPath": "/B2ITSM-2H/docs/tags",
+          "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs",
+          "editUrlLocalized": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/gonzaguepatinier/Documents/GitHub/WWW/B2ITSM-2H/sidebars.js",
+          "contentPath": "/Users/gonzaguepatinier/Documents/GitHub/WWW/B2ITSM-2H/docs",
+          "contentPathLocalized": "/Users/gonzaguepatinier/Documents/GitHub/WWW/B2ITSM-2H/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "Ideas",
+              "title": "Ideas",
+              "description": "Conduct regular workshops on mindfulness and meditation techniques. Provide practical tips on incorporating these practices into daily routines to reduce stress.",
+              "source": "@site/docs/Ideas.md",
+              "sourceDirName": ".",
+              "slug": "/Ideas",
+              "permalink": "/B2ITSM-2H/docs/Ideas",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Ideas.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "Title": "Ideas"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Support Group",
+                "permalink": "/B2ITSM-2H/docs/Resources/support_group"
+              },
+              "next": {
+                "title": "Tutorial Basics",
+                "permalink": "/B2ITSM-2H/docs/category/tutorial-basics"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Information",
+              "description": "What is this site about?",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/B2ITSM-2H/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "Title": "Information"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Resources",
+                "permalink": "/B2ITSM-2H/docs/category/resources"
+              }
+            },
+            {
+              "id": "Resources/articles",
+              "title": "Articles",
+              "description": "",
+              "source": "@site/docs/Resources/articles.md",
+              "sourceDirName": "Resources",
+              "slug": "/Resources/articles",
+              "permalink": "/B2ITSM-2H/docs/Resources/articles",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/articles.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "Title": "Articles"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Resources List",
+                "permalink": "/B2ITSM-2H/docs/Resources/intro"
+              },
+              "next": {
+                "title": "Videos",
+                "permalink": "/B2ITSM-2H/docs/Resources/videos"
+              }
+            },
+            {
+              "id": "Resources/books",
+              "title": "Books",
+              "description": "",
+              "source": "@site/docs/Resources/books.md",
+              "sourceDirName": "Resources",
+              "slug": "/Resources/books",
+              "permalink": "/B2ITSM-2H/docs/Resources/books",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/books.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Videos",
+                "permalink": "/B2ITSM-2H/docs/Resources/videos"
+              },
+              "next": {
+                "title": "MOOCs",
+                "permalink": "/B2ITSM-2H/docs/Resources/mooc"
+              }
+            },
+            {
+              "id": "Resources/intro",
+              "title": "Resources List",
+              "description": "Articles",
+              "source": "@site/docs/Resources/intro.md",
+              "sourceDirName": "Resources",
+              "slug": "/Resources/intro",
+              "permalink": "/B2ITSM-2H/docs/Resources/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "Title": "Overview"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Resources",
+                "permalink": "/B2ITSM-2H/docs/category/resources"
+              },
+              "next": {
+                "title": "Articles",
+                "permalink": "/B2ITSM-2H/docs/Resources/articles"
+              }
+            },
+            {
+              "id": "Resources/mooc",
+              "title": "MOOCs",
+              "description": "",
+              "source": "@site/docs/Resources/mooc.md",
+              "sourceDirName": "Resources",
+              "slug": "/Resources/mooc",
+              "permalink": "/B2ITSM-2H/docs/Resources/mooc",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/mooc.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Books",
+                "permalink": "/B2ITSM-2H/docs/Resources/books"
+              },
+              "next": {
+                "title": "Support Group",
+                "permalink": "/B2ITSM-2H/docs/Resources/support_group"
+              }
+            },
+            {
+              "id": "Resources/support_group",
+              "title": "Support Group",
+              "description": "",
+              "source": "@site/docs/Resources/support_group.md",
+              "sourceDirName": "Resources",
+              "slug": "/Resources/support_group",
+              "permalink": "/B2ITSM-2H/docs/Resources/support_group",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/support_group.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MOOCs",
+                "permalink": "/B2ITSM-2H/docs/Resources/mooc"
+              },
+              "next": {
+                "title": "Ideas",
+                "permalink": "/B2ITSM-2H/docs/Ideas"
+              }
+            },
+            {
+              "id": "Resources/videos",
+              "title": "Videos",
+              "description": "",
+              "source": "@site/docs/Resources/videos.md",
+              "sourceDirName": "Resources",
+              "slug": "/Resources/videos",
+              "permalink": "/B2ITSM-2H/docs/Resources/videos",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/videos.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "Title": "VIDEO"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Articles",
+                "permalink": "/B2ITSM-2H/docs/Resources/articles"
+              },
+              "next": {
+                "title": "Books",
+                "permalink": "/B2ITSM-2H/docs/Resources/books"
+              }
+            },
+            {
+              "id": "tools/tutorial-basics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tools/tutorial-basics/congratulations.md",
+              "sourceDirName": "tools/tutorial-basics",
+              "slug": "/tools/tutorial-basics/congratulations",
+              "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/congratulations",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-basics/congratulations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/deploy-your-site"
+              },
+              "next": {
+                "title": "Tutorial - Extras",
+                "permalink": "/B2ITSM-2H/docs/category/tutorial---extras"
+              }
+            },
+            {
+              "id": "tools/tutorial-basics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tools/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tools/tutorial-basics",
+              "slug": "/tools/tutorial-basics/create-a-blog-post",
+              "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-blog-post",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-basics/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "id": "tools/tutorial-basics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tools/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tools/tutorial-basics",
+              "slug": "/tools/tutorial-basics/create-a-document",
+              "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-document",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-basics/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-blog-post"
+              }
+            },
+            {
+              "id": "tools/tutorial-basics/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tools/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tools/tutorial-basics",
+              "slug": "/tools/tutorial-basics/create-a-page",
+              "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-page",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-basics/create-a-page.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial Basics",
+                "permalink": "/B2ITSM-2H/docs/category/tutorial-basics"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-document"
+              }
+            },
+            {
+              "id": "tools/tutorial-basics/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tools/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tools/tutorial-basics",
+              "slug": "/tools/tutorial-basics/deploy-your-site",
+              "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/deploy-your-site",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-basics/deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "id": "tools/tutorial-basics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tools/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tools/tutorial-basics",
+              "slug": "/tools/tutorial-basics/markdown-features",
+              "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/markdown-features",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-basics/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/deploy-your-site"
+              }
+            },
+            {
+              "id": "tools/tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tools/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tools/tutorial-extras",
+              "slug": "/tools/tutorial-extras/manage-docs-versions",
+              "permalink": "/B2ITSM-2H/docs/tools/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-extras/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Extras",
+                "permalink": "/B2ITSM-2H/docs/category/tutorial---extras"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "id": "tools/tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tools/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tools/tutorial-extras",
+              "slug": "/tools/tutorial-extras/translate-your-site",
+              "permalink": "/B2ITSM-2H/docs/tools/tutorial-extras/translate-your-site",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-extras/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/B2ITSM-2H/docs/tools/tutorial-extras/manage-docs-versions"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Resources",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Resources/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Resources/articles"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Resources/videos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Resources/books"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Resources/mooc"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Resources/support_group"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Resources",
+                  "slug": "/category/resources",
+                  "permalink": "/B2ITSM-2H/docs/category/resources"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "Ideas"
+              },
+              {
+                "type": "category",
+                "label": "tools",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Tutorial Basics",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tools/tutorial-basics/create-a-page"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tools/tutorial-basics/create-a-document"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tools/tutorial-basics/create-a-blog-post"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tools/tutorial-basics/markdown-features"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tools/tutorial-basics/deploy-your-site"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tools/tutorial-basics/congratulations"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "5 minutes to learn the most important Docusaurus concepts.",
+                      "slug": "/category/tutorial-basics",
+                      "permalink": "/B2ITSM-2H/docs/category/tutorial-basics"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Tutorial - Extras",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tools/tutorial-extras/manage-docs-versions"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tools/tutorial-extras/translate-your-site"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/tutorial---extras",
+                      "permalink": "/B2ITSM-2H/docs/category/tutorial---extras"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/B2ITSM-2H/blog/welcome",
+            "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/blog/2024-01-12-welcome/index.md",
+            "source": "@site/blog/2024-01-12-welcome/index.md",
+            "title": "Welcome",
+            "description": "News will be published here.",
+            "date": "2024-01-12T00:00:00.000Z",
+            "formattedDate": "January 12, 2024",
+            "tags": [
+              {
+                "label": "back2itsm",
+                "permalink": "/B2ITSM-2H/blog/tags/back-2-itsm"
+              }
+            ],
+            "readingTime": 0.025,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gonzague PATINIER",
+                "title": "Maintainer of Repository",
+                "url": "https://github.com/gonzaguepatinier",
+                "imageURL": "https://back2itsm-thai.github.io/B2ITSM-2H/img/patgo01.jpg",
+                "key": "gonzague"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "gonzague"
+              ],
+              "tags": [
+                "back2itsm"
+              ]
+            },
+            "unlisted": false
+          },
+          "content": "News will be published here."
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome"
+          ],
+          "metadata": {
+            "permalink": "/B2ITSM-2H/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/B2ITSM-2H/blog/tags/back-2-itsm": {
+          "label": "back2itsm",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/B2ITSM-2H/blog/tags/back-2-itsm",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/B2ITSM-2H/blog/tags/back-2-itsm",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      },
+      "blogTagsListPath": "/B2ITSM-2H/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/B2ITSM-2H/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/B2ITSM-2H/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

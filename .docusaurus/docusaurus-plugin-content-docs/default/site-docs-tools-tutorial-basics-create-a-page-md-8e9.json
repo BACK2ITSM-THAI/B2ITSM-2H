@@ -1,0 +1,27 @@
+{
+  "id": "tools/tutorial-basics/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/tools/tutorial-basics/create-a-page.md",
+  "sourceDirName": "tools/tutorial-basics",
+  "slug": "/tools/tutorial-basics/create-a-page",
+  "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-basics/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Basics",
+    "permalink": "/B2ITSM-2H/docs/category/tutorial-basics"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-document"
+  }
+}

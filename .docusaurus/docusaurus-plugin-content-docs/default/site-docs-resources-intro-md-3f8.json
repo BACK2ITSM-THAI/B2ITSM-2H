@@ -1,0 +1,28 @@
+{
+  "id": "Resources/intro",
+  "title": "Resources List",
+  "description": "Articles",
+  "source": "@site/docs/Resources/intro.md",
+  "sourceDirName": "Resources",
+  "slug": "/Resources/intro",
+  "permalink": "/B2ITSM-2H/docs/Resources/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "Title": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/B2ITSM-2H/docs/category/resources"
+  },
+  "next": {
+    "title": "Articles",
+    "permalink": "/B2ITSM-2H/docs/Resources/articles"
+  }
+}

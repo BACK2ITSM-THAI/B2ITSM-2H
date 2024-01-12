@@ -1,0 +1,27 @@
+{
+  "id": "tools/tutorial-basics/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/tools/tutorial-basics/markdown-features.mdx",
+  "sourceDirName": "tools/tutorial-basics",
+  "slug": "/tools/tutorial-basics/markdown-features",
+  "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/tools/tutorial-basics/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-blog-post"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/B2ITSM-2H/docs/tools/tutorial-basics/deploy-your-site"
+  }
+}

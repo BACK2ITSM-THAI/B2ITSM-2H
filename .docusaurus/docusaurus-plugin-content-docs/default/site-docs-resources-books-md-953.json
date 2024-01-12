@@ -1,0 +1,24 @@
+{
+  "id": "Resources/books",
+  "title": "Books",
+  "description": "",
+  "source": "@site/docs/Resources/books.md",
+  "sourceDirName": "Resources",
+  "slug": "/Resources/books",
+  "permalink": "/B2ITSM-2H/docs/Resources/books",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BACK2ITSM-THAI/B2ITSM-2H/tree/main/docs/Resources/books.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Videos",
+    "permalink": "/B2ITSM-2H/docs/Resources/videos"
+  },
+  "next": {
+    "title": "MOOCs",
+    "permalink": "/B2ITSM-2H/docs/Resources/mooc"
+  }
+}
