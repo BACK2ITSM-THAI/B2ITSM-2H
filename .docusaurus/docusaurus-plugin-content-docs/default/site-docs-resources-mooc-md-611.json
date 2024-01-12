@@ -1,7 +1,7 @@
 {
   "id": "Resources/mooc",
   "title": "MOOCs",
-  "description": "",
+  "description": "Related MOOC",
   "source": "@site/docs/Resources/mooc.md",
   "sourceDirName": "Resources",
   "slug": "/Resources/mooc",

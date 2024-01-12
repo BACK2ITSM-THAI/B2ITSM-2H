@@ -1,7 +1,7 @@
 {
   "id": "Resources/videos",
   "title": "Videos",
-  "description": "",
+  "description": "Youtube",
   "source": "@site/docs/Resources/videos.md",
   "sourceDirName": "Resources",
   "slug": "/Resources/videos",

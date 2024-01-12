@@ -154,7 +154,7 @@
             {
               "id": "Resources/mooc",
               "title": "MOOCs",
-              "description": "",
+              "description": "Related MOOC",
               "source": "@site/docs/Resources/mooc.md",
               "sourceDirName": "Resources",
               "slug": "/Resources/mooc",
@@ -202,7 +202,7 @@
             {
               "id": "Resources/videos",
               "title": "Videos",
-              "description": "",
+              "description": "Youtube",
               "source": "@site/docs/Resources/videos.md",
               "sourceDirName": "Resources",
               "slug": "/Resources/videos",

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkb_2_itsm_2_hb=self.webpackChunkb_2_itsm_2_hb||[]).push([[5017],{4242:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/B2ITSM-2H/blog/tags/hello","allTagsPath":"/B2ITSM-2H/blog/tags","count":2,"unlisted":false}')}}]);

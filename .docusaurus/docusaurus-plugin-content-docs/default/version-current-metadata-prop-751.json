@@ -192,7 +192,7 @@
     "Resources/mooc": {
       "id": "Resources/mooc",
       "title": "MOOCs",
-      "description": "",
+      "description": "Related MOOC",
       "sidebar": "tutorialSidebar"
     },
     "Resources/support_group": {
@@ -204,7 +204,7 @@
     "Resources/videos": {
       "id": "Resources/videos",
       "title": "Videos",
-      "description": "",
+      "description": "Youtube",
       "sidebar": "tutorialSidebar"
     },
     "tools/tutorial-basics/congratulations": {
