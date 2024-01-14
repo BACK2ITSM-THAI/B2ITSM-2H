@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkb_2_itsm_2_hb=self.webpackChunkb_2_itsm_2_hb||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Looking for resources","permalink":"/B2ITSM-2H/blog/resources","unlisted":false},{"title":"Welcome","permalink":"/B2ITSM-2H/blog/welcome","unlisted":false}]}')}}]);

@@ -4,10 +4,26 @@
         <title>BACK2ITSM Blog</title>
         <link>https://BACK2ITSM-THAI.github.io/B2ITSM-2H/blog</link>
         <description>BACK2ITSM Blog</description>
-        <lastBuildDate>Fri, 12 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Looking for resources]]></title>
+            <link>https://BACK2ITSM-THAI.github.io/B2ITSM-2H/blog/resources</link>
+            <guid>https://BACK2ITSM-THAI.github.io/B2ITSM-2H/blog/resources</guid>
+            <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I'm looking for any resources to share with the community, such as:]]></description>
+            <content:encoded><![CDATA[<p>I'm looking for any resources to share with the community, such as:</p>
+<ul>
+<li>Articles</li>
+<li>Books</li>
+<li>Videos</li>
+<li>Mooc</li>
+<li>Support organization</li>
+</ul>]]></content:encoded>
+            <category>back2itsm</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://BACK2ITSM-THAI.github.io/B2ITSM-2H/blog/welcome</link>

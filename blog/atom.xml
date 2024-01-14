@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BACK2ITSM-THAI.github.io/B2ITSM-2H/blog</id>
     <title>BACK2ITSM Blog</title>
-    <updated>2024-01-12T00:00:00.000Z</updated>
+    <updated>2024-01-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BACK2ITSM-THAI.github.io/B2ITSM-2H/blog"/>
     <subtitle>BACK2ITSM Blog</subtitle>
     <icon>https://BACK2ITSM-THAI.github.io/B2ITSM-2H/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Looking for resources]]></title>
+        <id>https://BACK2ITSM-THAI.github.io/B2ITSM-2H/blog/resources</id>
+        <link href="https://BACK2ITSM-THAI.github.io/B2ITSM-2H/blog/resources"/>
+        <updated>2024-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm looking for any resources to share with the community, such as:]]></summary>
+        <content type="html"><![CDATA[<p>I'm looking for any resources to share with the community, such as:</p>
+<ul>
+<li>Articles</li>
+<li>Books</li>
+<li>Videos</li>
+<li>Mooc</li>
+<li>Support organization</li>
+</ul>]]></content>
+        <author>
+            <name>Gonzague PATINIER</name>
+            <uri>https://github.com/gonzaguepatinier</uri>
+        </author>
+        <category label="back2itsm" term="back2itsm"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://BACK2ITSM-THAI.github.io/B2ITSM-2H/blog/welcome</id>
