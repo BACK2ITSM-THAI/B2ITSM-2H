@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkb_2_itsm_2_hb=self.webpackChunkb_2_itsm_2_hb||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/B2ITSM-2H/blog","blogTitle":"Blog","authorsListPath":"/B2ITSM-2H/blog/authors"}')}}]);

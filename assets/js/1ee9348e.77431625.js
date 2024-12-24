@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkb_2_itsm_2_hb=self.webpackChunkb_2_itsm_2_hb||[]).push([[6095],{8401:t=>{t.exports=JSON.parse('{"authors":[{"name":"Gonzague PATINIER","title":"Maintainer of Repository","url":"https://github.com/gonzaguepatinier","imageURL":"https://back2itsm-thai.github.io/B2ITSM-2H/img/patgo01.jpg","key":"gonzague","page":null,"count":2}]}')}}]);
