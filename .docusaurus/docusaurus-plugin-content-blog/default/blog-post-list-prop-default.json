@@ -2,9 +2,16 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Looking for resources",
+      "permalink": "/B2ITSM-2H/blog/resources",
+      "unlisted": false,
+      "date": "2024-01-14T00:00:00.000Z"
+    },
+    {
       "title": "Welcome",
       "permalink": "/B2ITSM-2H/blog/welcome",
-      "unlisted": false
+      "unlisted": false,
+      "date": "2024-01-12T00:00:00.000Z"
     }
   ]
 }

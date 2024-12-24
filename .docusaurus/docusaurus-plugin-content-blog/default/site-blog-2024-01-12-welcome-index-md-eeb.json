@@ -5,9 +5,9 @@
   "title": "Welcome",
   "description": "News will be published here.",
   "date": "2024-01-12T00:00:00.000Z",
-  "formattedDate": "January 12, 2024",
   "tags": [
     {
+      "inline": true,
       "label": "back2itsm",
       "permalink": "/B2ITSM-2H/blog/tags/back-2-itsm"
     }
@@ -20,7 +20,8 @@
       "title": "Maintainer of Repository",
       "url": "https://github.com/gonzaguepatinier",
       "imageURL": "https://back2itsm-thai.github.io/B2ITSM-2H/img/patgo01.jpg",
-      "key": "gonzague"
+      "key": "gonzague",
+      "page": null
     }
   ],
   "frontMatter": {
@@ -33,5 +34,9 @@
       "back2itsm"
     ]
   },
-  "unlisted": false
+  "unlisted": false,
+  "prevItem": {
+    "title": "Looking for resources",
+    "permalink": "/B2ITSM-2H/blog/resources"
+  }
 }

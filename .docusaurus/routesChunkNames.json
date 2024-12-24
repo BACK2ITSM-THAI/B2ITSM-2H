@@ -1,154 +1,184 @@
 {
-  "/B2ITSM-2H/blog-cb5": {
+  "/B2ITSM-2H/blog-1cf": {
     "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "886c8346"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
       {
+        "content": "628e0a5a"
+      },
+      {
         "content": "d0e951c8"
       }
     ],
-    "metadata": "63db6c15"
+    "__props": "6877e6e9"
   },
-  "/B2ITSM-2H/blog/archive-b8f": {
+  "/B2ITSM-2H/blog/archive-6d3": {
     "__comp": "9e4087bc",
     "__context": {
-      "plugin": "886c8346"
+      "plugin": "36994c47"
     },
-    "archive": "1049c0fc"
+    "__props": "6f3f9920"
   },
-  "/B2ITSM-2H/blog/tags-b66": {
-    "__comp": "01a85c17",
+  "/B2ITSM-2H/blog/authors-ce1": {
+    "__comp": "621db11d",
     "__context": {
-      "plugin": "886c8346"
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "tags": "dc012293"
+    "__props": "1ee9348e"
   },
-  "/B2ITSM-2H/blog/tags/back-2-itsm-9c7": {
+  "/B2ITSM-2H/blog/resources-35c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "720aba9c"
+  },
+  "/B2ITSM-2H/blog/tags-79e": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "f9283924"
+  },
+  "/B2ITSM-2H/blog/tags/back-2-itsm-50c": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "886c8346"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
       {
+        "content": "628e0a5a"
+      },
+      {
         "content": "d0e951c8"
       }
     ],
-    "tag": "dcb1ea96",
-    "listMetadata": "7473d3ab"
+    "__props": "f7ff6a79"
   },
-  "/B2ITSM-2H/blog/welcome-814": {
+  "/B2ITSM-2H/blog/welcome-43e": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "886c8346"
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "content": "eebe6a49"
   },
-  "/B2ITSM-2H/markdown-page-221": {
+  "/B2ITSM-2H/markdown-page-358": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "214562f4"
+      "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/B2ITSM-2H/docs-334": {
+  "/B2ITSM-2H/docs-a66": {
     "__comp": "5e95c892",
     "__context": {
-      "plugin": "747be094"
+      "plugin": "aba21aa0"
     }
   },
-  "/B2ITSM-2H/docs-973": {
+  "/B2ITSM-2H/docs-b21": {
     "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+    "__props": "8a44fcca"
   },
-  "/B2ITSM-2H/docs-80c": {
+  "/B2ITSM-2H/docs-25e": {
     "__comp": "a94703ab"
   },
-  "/B2ITSM-2H/docs/category/resources-300": {
+  "/B2ITSM-2H/docs/category/resources-910": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "0dac0533"
+    "__props": "872c1663"
   },
-  "/B2ITSM-2H/docs/category/tutorial---extras-2f2": {
+  "/B2ITSM-2H/docs/category/tutorial---extras-c86": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "42bb3dcc"
+    "__props": "a1193a99"
   },
-  "/B2ITSM-2H/docs/category/tutorial-basics-d2d": {
+  "/B2ITSM-2H/docs/category/tutorial-basics-cdf": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "a0d00c0c"
+    "__props": "2c5b3da5"
   },
-  "/B2ITSM-2H/docs/Ideas-77f": {
+  "/B2ITSM-2H/docs/Ideas-1f9": {
     "__comp": "17896441",
     "content": "0ac35535"
   },
-  "/B2ITSM-2H/docs/intro-40c": {
+  "/B2ITSM-2H/docs/intro-91b": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/B2ITSM-2H/docs/Resources/articles-0a7": {
+  "/B2ITSM-2H/docs/Resources/articles-dd2": {
     "__comp": "17896441",
     "content": "27da1c04"
   },
-  "/B2ITSM-2H/docs/Resources/books-467": {
+  "/B2ITSM-2H/docs/Resources/books-be3": {
     "__comp": "17896441",
     "content": "953c5ac8"
   },
-  "/B2ITSM-2H/docs/Resources/intro-76f": {
+  "/B2ITSM-2H/docs/Resources/intro-0c2": {
     "__comp": "17896441",
     "content": "3f8cb584"
   },
-  "/B2ITSM-2H/docs/Resources/mooc-6b0": {
+  "/B2ITSM-2H/docs/Resources/mooc-7b8": {
     "__comp": "17896441",
     "content": "61170654"
   },
-  "/B2ITSM-2H/docs/Resources/support_group-b71": {
+  "/B2ITSM-2H/docs/Resources/support_group-094": {
     "__comp": "17896441",
     "content": "e57f11b8"
   },
-  "/B2ITSM-2H/docs/Resources/videos-d38": {
+  "/B2ITSM-2H/docs/Resources/videos-a20": {
     "__comp": "17896441",
     "content": "56d7ac29"
   },
-  "/B2ITSM-2H/docs/tools/tutorial-basics/congratulations-d0b": {
+  "/B2ITSM-2H/docs/tools/tutorial-basics/congratulations-6e7": {
     "__comp": "17896441",
     "content": "c8c8fb1e"
   },
-  "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-blog-post-fc4": {
+  "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-blog-post-769": {
     "__comp": "17896441",
     "content": "9e6714d1"
   },
-  "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-document-64c": {
+  "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-document-cc7": {
     "__comp": "17896441",
     "content": "ecc62819"
   },
-  "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-page-efc": {
+  "/B2ITSM-2H/docs/tools/tutorial-basics/create-a-page-b03": {
     "__comp": "17896441",
     "content": "8e9a37fb"
   },
-  "/B2ITSM-2H/docs/tools/tutorial-basics/deploy-your-site-139": {
+  "/B2ITSM-2H/docs/tools/tutorial-basics/deploy-your-site-b0d": {
     "__comp": "17896441",
     "content": "a193d583"
   },
-  "/B2ITSM-2H/docs/tools/tutorial-basics/markdown-features-1a0": {
+  "/B2ITSM-2H/docs/tools/tutorial-basics/markdown-features-89f": {
     "__comp": "17896441",
     "content": "fac2139c"
   },
-  "/B2ITSM-2H/docs/tools/tutorial-extras/manage-docs-versions-0a5": {
+  "/B2ITSM-2H/docs/tools/tutorial-extras/manage-docs-versions-894": {
     "__comp": "17896441",
     "content": "e9c8a88c"
   },
-  "/B2ITSM-2H/docs/tools/tutorial-extras/translate-your-site-1e2": {
+  "/B2ITSM-2H/docs/tools/tutorial-extras/translate-your-site-4f4": {
     "__comp": "17896441",
     "content": "d8008a6f"
   },
-  "/B2ITSM-2H/-796": {
+  "/B2ITSM-2H/-8f5": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "214562f4"
+      "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
   }
